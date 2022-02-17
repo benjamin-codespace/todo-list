@@ -4,7 +4,7 @@ ejercicio github
 **Project Title**
 
 This project is created to learn how to work in Github with a partner
-You can find more information by visiting the Partnership repository.
+You can find more information by visiting the [Partnership] (https://www.partnership.com/) repository.
 
 **Description**
 
@@ -33,6 +33,6 @@ Requirements for this project are very easy. You need:
  ==until finished==
 
  End with an example of getting some data out of the system or using it for a litle demo
- 
+
 
 
