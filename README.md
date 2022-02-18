@@ -22,6 +22,7 @@ Requirements for this project are very easy. You need:
 - Git
 
 **Installing**
+
  If you follow this steps you can running the project
 
  The first step
@@ -33,6 +34,12 @@ Requirements for this project are very easy. You need:
  ==until finished==
 
  End with an example of getting some data out of the system or using it for a litle demo
+ 
+**Deployment**
+
+I don't really know what deployment means hahaha. 
+
+**Built With**
 
 
 
