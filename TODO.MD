@@ -8,4 +8,5 @@ This is the checklist of tasks to make a good readme:
   -[x] Prerequisites
   -[x] Installing
   -[x] Build With
+  -[x] Authors
   -[x] License
