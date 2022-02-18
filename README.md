@@ -1,27 +1,27 @@
 # todo-list
 ejercicio github
 
-#Project Title
+# Project Title
 
 This project is created to learn how to work in Github with a partner
 You can find more information by visiting the [Partnership](https://www.partnership.com/) repository.
 
-##Description
+## Description
 
 In this project we will work with git commands like git pull and git push. 
 
-##Getting started
+## Getting started
 
 These instructions will give you a copy of the project up and running on your local computer for development and testing.
 
-##Prerequisites
+## Prerequisites
 
 Requirements for this project are very easy. You need:
 - [VS Code](https://code.visualstudio.com/)
 - [Github](https://github.com/)
 - Git
 
-##Installing
+## Installing
 
  If you follow this steps you can running the project
 
@@ -35,11 +35,11 @@ Requirements for this project are very easy. You need:
 
  End with an example of getting some data out of the system or using it for a litle demo
  
-##Deployment
+## Deployment
 
 I don't really know what deployment means hahaha. 
 
-##Built With
+## Built With
 
 [Contributor Covenant](https://www.contributor.com/)- Used
 for the Code of Conduct
@@ -47,13 +47,13 @@ for the Code of Conduct
 [Creative Commons](https://www.creative.com/) - Use to choose 
 the license
 
-##Authors
+## Authors
 
 * Programmer A:@Benjamin-Re -*Created every other  paragraph* [Benjamin-Re](github.com/Benjamin-Re)
 * Programmer B:@RocioPG3 -*Created every other paragraph* [RocioPG3](github.com/RocioPG3)
   
 
-##License
+## License
 
 This project is licensed under the [CC0 1.0 Universal](https://www.universal.com/)
 
