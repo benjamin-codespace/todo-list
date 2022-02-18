@@ -27,11 +27,11 @@ Requirements for this project are very easy. You need:
 
  The first step
 
- ==Give the example==
+ > Give the example
 
  And repeat
 
- ==until finished==
+ > until finished
 
  End with an example of getting some data out of the system or using it for a litle demo
  
@@ -47,7 +47,7 @@ the license
 
 **License**
 This project is licensed under the [CC0 1.0 Universal](https://www.universal.com/)
-Creative Commons License - see the [License.md](https://www.licensemd.com/) file for details
+Creative Commons License - see the [License.md](https://www.licensemd.com/) file for details 
 
 
 
